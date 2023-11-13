@@ -1,3 +1,2 @@
-# latihan-branch
 #ini adalah repository untuk latihan membuat branch baru di Github.
-GitHUb itu asyik l0.
+Belajat GitHub di Dicoding itu seru.
